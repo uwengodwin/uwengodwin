@@ -1,4 +1,4 @@
-<img align="left" alt="coding" widthe="400" src="https://pixabay.com/photos/web-design-coding-web-developing-2906159/"
+<p><img align="left" alt="coding" widthe="400" src="https://pixabay.com/photos/web-design-coding-web-developing-2906159/"</p>
 <h1 align="center">Hi 👋, I'm Uwen, Godwin</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <p><img align="left" alt="coding" widthe="400" src="https://tenor.com/view/coding-gif-24625099" /></p>
